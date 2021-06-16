@@ -149,7 +149,7 @@
     "redux-segment": "^1.6.2",
     "redux-thunk": "^2.1.0",
     "remarkable": "^1.7.4",
-    "sanitize-html": "^1.27.4",
+    "sanitize-html": "^2.3.2",
     "svg-react-loader": "^0.4.5",
     "tc-auth-lib": "topcoder-platform/tc-auth-lib#1.0.4",
     "tc-ui": "git+https://github.com/appirio-tech/tc-ui.git#feature/connectv2",
